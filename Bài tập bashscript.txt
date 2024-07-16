@@ -1,0 +1,4 @@
+Bài tập bashscript: Cho 1 file excel có các column: Số thứ tự, tên, ngày sinh nhật, quê quán, điểm
+- Đọc dữ liệu từ file excel
+- lọc ra thông tin các dòng có ngày sinh nhật đúng format yyyy-mm-dd
+- Chuẩn hóa lại tên theo đúng formart: Aaaa Bbbb Cccc

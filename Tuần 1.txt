@@ -1,0 +1,3 @@
+Tuần 1:
+- Tìm hiểu các commandline trong Ubuntu, các trình soạn thảo trên terminal
+- BashScript trong Linux.
